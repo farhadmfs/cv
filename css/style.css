@@ -319,6 +319,9 @@ span{
 	.sec_title {
     margin: 0 0 0 -45px;
   }
+	.cv_about_info{
+  	width: 80%;
+  }
 
 }
 @media only screen and (max-width: 990px){
@@ -328,4 +331,7 @@ span{
 	.copy_right_text{
 		display: none;
 	}
+	.cv_about_info{
+  	width: 100%;
+  }
 }
